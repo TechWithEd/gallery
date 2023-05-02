@@ -1,9 +1,4 @@
+// Put your firebase data down here
 {
-  "apiKey": "AIzaSyC07xE4fSZLL-ebqUtvhV3mF5GHukeENBI",
-  "authDomain": "drive-clone-603a0.firebaseapp.com",
-  "projectId": "drive-clone-603a0",
-  "storageBucket": "drive-clone-603a0.appspot.com",
-  "messagingSenderId": "577206963303",
-  "appId": "1:577206963303:web:0009b931878309e85398c2",
-  "measurementId": "G-0FBKZTDWM1"
+  
 }
